@@ -1,0 +1,13 @@
+c:\users\derek\documents\visual studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\bin\Debug\DFusariAssignment2.exe.config
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.frmTicTacToe.resources
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.Properties.Resources.resources
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.csproj.GenerateResource.Cache
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\bin\Debug\DFusariAssignment2.exe
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\bin\Debug\DFusariAssignment2.pdb
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.exe
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.pdb
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.Resource1.resources
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work Sept - Dec 2016\DFusariAssignment2\DFusariAssignment2\bin\Debug\DFusariAssignment2.exe.config
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work Sept - Dec 2016\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.exe
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work Sept - Dec 2016\DFusariAssignment2\DFusariAssignment2\obj\Debug\DFusariAssignment2.pdb
